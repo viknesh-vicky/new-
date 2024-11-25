@@ -31,4 +31,11 @@ public class A {
 	private void vicky() {
 		System.out.println("vicky");
 	}
+	private void kamal() {
+		System.out.println("vicky");
+
+	}
+	
+	
+	
 }
